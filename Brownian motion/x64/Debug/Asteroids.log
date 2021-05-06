@@ -1,0 +1,19 @@
+﻿  Asteroids.cpp
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(32,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(32,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(40,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(71,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(71,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(73,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(100,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(101,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(156,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(157,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(159,1): warning C4305: *=: усечение из "double" в "float"
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(160,1): warning C4305: *=: усечение из "double" в "float"
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(195,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(209,47): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(216,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(280,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\Asteroids.cpp(280,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Asteroids.vcxproj -> C:\Users\User\Documents\СЕМЕСТР 4\ПРОГА\My_HW_for_Dmitriy_Igorevich\HW_12\Brownian motion\x64\Debug\Asteroids.exe
